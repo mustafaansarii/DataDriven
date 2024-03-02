@@ -1,5 +1,4 @@
-# DataDriven Projects Repository
-
+ 
 Welcome to the DataDriven Projects Repository! This repository contains a collection of data science and machine learning projects focusing on various domains and techniques.
 
 ## Projects Overview
@@ -84,9 +83,6 @@ Welcome to the DataDriven Projects Repository! This repository contains a collec
     - Description: Predict survival on the Titanic using machine learning algorithms.
     - Directory: [Titanic_Classification](https://github.com/mustafaansarii/DataDriven/tree/main/Titanic%20Classification.)
 
-## Getting Started
-
-To explore any of the projects, navigate to the respective directory in the repository linked above and follow the instructions provided in the project's README.
 
 ## Contributing
 
