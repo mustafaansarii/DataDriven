@@ -30,31 +30,32 @@ The dataset used in this project contains the following columns:
 
 ### 1. Data Cleaning
 
+
 - Handle missing values and outliers.
 - Drop unnecessary columns or rows.
 
-   ![Data Cleaning](/PRODIGY_DS_Task-02/assets/download%20(1).png)
-   ![Data Cleaning](/PRODIGY_DS_Task-02/assets/download%20(2).png)
-   ![Data Cleaning](/PRODIGY_DS_Task-02/assets/download%20(3).png)
-   ![Data Cleaning](/PRODIGY_DS_Task-02/assets/download%20(4).png)
+   ![Data Cleaning](data cleaning and exploratory data analysis (EDA)./assets/download (1).png)
+   ![Data Cleaning](data cleaning and exploratory data analysis (EDA)./assets/download%20(2).png)
+   ![Data Cleaning](data cleaning and exploratory data analysis (EDA)./assets/download%20(3).png)
+   ![Data Cleaning](data cleaning and exploratory data analysis (EDA)./assets/download%20(4).png)
 
 ### 2. Descriptive Statistics
 
 - Display summary statistics of the dataset.
 
-   ![Descriptive Statistics](/PRODIGY_DS_Task-02/assets/download%20(11).png)
-   ![Descriptive Statistics](/PRODIGY_DS_Task-02/assets/download%20(5).png)
-   ![Descriptive Statistics](/PRODIGY_DS_Task-02/assets/download%20(6).png)
+   ![Descriptive Statistics](data cleaning and exploratory data analysis (EDA)./assets/download%20(11).png)
+   ![Descriptive Statistics](data cleaning and exploratory data analysis (EDA)./assets/download%20(5).png)
+   ![Descriptive Statistics](data cleaning and exploratory data analysis (EDA)./assets/download%20(6).png)
 
 ### 3. Visualizations
 
 - Create visualizations to explore relationships between variables.
 - Include histograms, boxplots, countplots, and pairplots.
 
-   ![Data Visualization](/PRODIGY_DS_Task-02/assets/download%20(10).png)
-   ![Data Visualization](/PRODIGY_DS_Task-02/assets/download%20(7).png)
-   ![Data Visualization](/PRODIGY_DS_Task-02/assets/download%20(8).png)
-   ![Data Visualization](/PRODIGY_DS_Task-02/assets/download%20(9).png)
+   ![Data Visualization](data cleaning and exploratory data analysis (EDA)./assets/download%20(10).png)
+   ![Data Visualization](data cleaning and exploratory data analysis (EDA)./assets/download%20(7).png)
+   ![Data Visualization](data cleaning and exploratory data analysis (EDA)./assets/download%20(8).png)
+   ![Data Visualization](data cleaning and exploratory data analysis (EDA)./assets/download%20(9).png)
 
 ## Instructions
 

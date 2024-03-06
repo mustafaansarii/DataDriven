@@ -15,7 +15,7 @@ The dataset used in this project is the "Mall Customers" dataset, which contains
 3. **K-Means Clustering:** The K-Means clustering algorithm is applied to segment customers into clusters based on their features. The optimal number of clusters is determined using silhouette scores.
 4. **Results Visualization:** The results of the clustering are visualized using scatter plots and box plots to understand the characteristics of each cluster and how they differ from each other.
 5. **3D Visualization:** A 3D scatter plot is created to visualize the clusters in a three-dimensional space, providing a more comprehensive view of the segmentation.
-![Bar chart](/assets/download%20(4).png)
-![Histogram](/assets/download%20(1).png)
+![Bar chart](/Customer%20Segmentation%20with%20K-Means%20Clustering./assets/download%20(4).png)
+![Histogram](/Customer%20Segmentation%20with%20K-Means%20Clustering./assets/download%20(1).png)
 ## Conclusion
 Customer segmentation using K-Means clustering provides valuable insights into the characteristics and behaviors of different customer segments. By understanding these segments, businesses can tailor their marketing strategies and product offerings to better meet the needs of their customers.
