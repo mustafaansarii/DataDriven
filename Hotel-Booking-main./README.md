@@ -15,12 +15,12 @@ Excel's pivot table functionalities were employed to organize and summarize the 
 5. Graphical Representations
 Various graphical representations, such as bar charts and pie charts, were created to visually communicate the key findings. These visualizations provide a clear overview of trends and patterns within the dataset.
 
-![image](/Hotel-Booking-main/assets/Pasted%20image%201.png)
-![image](/Hotel-Booking-main/assets/Pasted%20image%202.png)
-![image](/Hotel-Booking-main/assets/Pasted%20image%203.png)
-![image](/Hotel-Booking-main/assets/Pasted%20image%204.png)
-![image](/Hotel-Booking-main/assets/Pasted%20image%205.png)
-![image](/Hotel-Booking-main/assets/Pasted%20image.png)
+![image](Hotel-Booking-main./assets/Pasted image 1.png)
+![image](Hotel-Booking-main./assets/Pasted image 2.png)
+![image](Hotel-Booking-main./assets/Pasted image 3.png)
+![image](Hotel-Booking-main./assets/Pasted image 4.png)
+![image](Hotel-Booking-main./assets/Pasted image 5.png)
+![image](Hotel-Booking-main./assets/Pasted image.png)
 
 
 Key Findings
